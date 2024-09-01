@@ -1,7 +1,13 @@
-## Personal Learning Outcomes
+## Kişisel Öğrenim Çıktıları
 
-In this project, I deepened my understanding of **Dependency Injection (DI)** by working with **Hilt** in an Android environment. This codelab provided me with practical experience in:
+Bu projede, Android ortamında **Hilt** kullanarak **Bağımlılık Enjeksiyonu (Dependency Injection, DI)** konusunda bilgimi derinleştirdim. Bu çalışma, bana şu konularda pratik deneyim sağladı:
 
-- **Implementing Dependency Injection with Hilt**: I learned how to set up and use Hilt to manage dependencies in an Android application, simplifying the process of providing dependencies where they are needed.
-- **Benefits of Dependency Injection**: Through this project, I experienced the advantages of DI, including improved code reusability, easier refactoring, and more straightforward testing.
-- **Integrating Hilt with Jetpack Components**: I explored how Hilt integrates seamlessly with other Jetpack components, making it a powerful tool for building well-architected Android apps.
+- **Hilt ile Bağımlılık Enjeksiyonu Uygulama**: Android uygulamasında bağımlılıkları yönetmek için Hilt'i nasıl kurup kullanacağımı öğrendim, bu da bağımlılıkların ihtiyaç duyulan yerlere sağlanmasını basitleştirdi.
+- **Bağımlılık Enjeksiyonunun Faydaları**: Bu proje sayesinde DI'nin avantajlarını deneyimledim, bunlar arasında kodun tekrar kullanılabilirliğinin artırılması, refaktöring işlemlerinin kolaylaştırılması ve testlerin daha basit hale getirilmesi yer alıyor.
+- **Hilt'i Jetpack Bileşenleriyle Entegre Etme**: Hilt'in diğer Jetpack bileşenleriyle sorunsuz bir şekilde nasıl entegre olduğunu keşfettim, bu da Android uygulamaları oluştururken güçlü bir araç haline getiriyor.
+
+Projenin amacı, Hilt'i öğrenmekti ve ilgili GitHub reposunun amacı da bu öğrenme sürecini desteklemektir.
+
+## Hilt Üzerinde Kişisel Notlarım
+![b1 (1)](https://github.com/user-attachments/assets/8366ea31-0dc5-406c-81a3-e3f01050054a)
+
